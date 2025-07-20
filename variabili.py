@@ -1,3 +1,5 @@
+# LE VARIABILI IN PYTHON
+
 # 1): Dichiarare una variabile "nome" e assegnargli il tuo nome. Mandare a schermo.
 
 nome = "Alberto"

@@ -1,3 +1,5 @@
+# TIPI DI DATI IN PYTHON
+
 # 1): Dichiarare una variabile "numero_intero" e assegnargli un valore intero. 
 # Mandare a schermo il tipo della variabile per conferma.
 

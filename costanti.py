@@ -1,3 +1,5 @@
+# LE COSTANTI IN PYTHON
+
 # 1): Definire una costante per il valore di pi greco e usarla 
 # per calcolare la circonferenza di un cerchio di raggio 5.
 
